@@ -1,0 +1,53 @@
+.info-field-container span {
+    opacity: 0.8;
+    color: #293037;
+    font-size: 13px;
+    line-height: 52px;
+    line-height: 38px;
+}
+
+.profile-container p {
+    text-align: center;
+}
+
+.profile-img {
+    width: 44%;
+    display: block;
+    margin: 23px auto;
+}
+
+.profile-container {
+    width:20%;
+    min-width: 230px;
+    background: #ffffff;
+}
+
+.bell-icon {
+    height: 18px;
+    margin: 21px;
+}
+
+.info-field-container hr {
+    width: 78%;
+}
+
+.info-field-container p {
+    display: flex;
+    max-height: 40px;
+    justify-content: space-between;
+}
+
+.info-field-value {
+    margin-right: 11%;
+}
+
+.input-field-name {
+    margin-left: 11%;
+}
+
+.self-name {
+    float: right;
+    margin: 19px 21px;
+    font-size: 14px;
+    color: #293037;
+}

@@ -1,0 +1,21 @@
+.App {
+  font-family: 'Roboto';
+  display: flex;
+  font-weight: 300;
+  background:#97978d;
+}
+.bold{
+  font-weight: 500;
+}
+hr{
+  border:none;
+  height: 1px;
+  background:gray;
+  opacity:0.2;
+}
+.margin-zero {
+  margin:0;
+}
+.top-line{
+  height: 60px;  
+}

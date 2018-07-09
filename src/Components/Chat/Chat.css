@@ -1,0 +1,25 @@
+.chat-container {
+    background: #edeff3;
+    min-width:250px;
+    width:45%;
+}
+
+.chat-container img,.vertical {
+    display: inline-block;
+    float:right;
+}
+
+.star-icon, .phone-icon {
+    height:21px;
+    margin: 20px 20px;
+}
+.video-camera-icon{
+    height:14px;
+    margin: 23px 20px;
+}
+
+.vertical {
+    margin:auto 0;
+    width: 1px;
+    height: 100%;
+}
